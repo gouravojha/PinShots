@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PinShots/static/css/main.2aca6487.chunk.css",
+    "main.js": "/PinShots/static/js/main.6d081c97.chunk.js",
+    "main.js.map": "/PinShots/static/js/main.6d081c97.chunk.js.map",
+    "runtime-main.js": "/PinShots/static/js/runtime-main.ee530255.js",
+    "runtime-main.js.map": "/PinShots/static/js/runtime-main.ee530255.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/PinShots/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0cf95447.chunk.js": "/PinShots/static/js/2.0cf95447.chunk.js",
+    "static/js/2.0cf95447.chunk.js.map": "/PinShots/static/js/2.0cf95447.chunk.js.map",
+    "static/js/3.f83f9516.chunk.js": "/PinShots/static/js/3.f83f9516.chunk.js",
+    "static/js/3.f83f9516.chunk.js.map": "/PinShots/static/js/3.f83f9516.chunk.js.map",
+    "index.html": "/PinShots/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/PinShots/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.2aca6487.chunk.css.map": "/PinShots/static/css/main.2aca6487.chunk.css.map",
+    "static/js/2.0cf95447.chunk.js.LICENSE.txt": "/PinShots/static/js/2.0cf95447.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee530255.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.0cf95447.chunk.js",
+    "static/css/main.2aca6487.chunk.css",
+    "static/js/main.6d081c97.chunk.js"
+  ]
+}
