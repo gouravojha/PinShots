@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    background-color: #e9e5e5;
+}
